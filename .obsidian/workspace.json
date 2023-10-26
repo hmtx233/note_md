@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3c3c5d0ea0d83833",
+    "type": "split",
+    "children": [
+      {
+        "id": "932c5e62547b1c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1cdf879e0d8ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mine/plan/English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e70953e9679e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a05a2c0b42d16399",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ecba08f69070a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a184a4e6fcfc0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "654c7d914c798d0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90cee515e48e280c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "af951bf76f5d8076",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a269d85c89ede2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea11483c5ccfd49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mine/plan/English.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87406abfe9eb0121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mine/plan/English.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43520e3b23bffc1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "396808f941dff92d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mine/plan/English.md"
+              }
+            }
+          },
+          {
+            "id": "05390bfb3d4855cb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9e1cdf879e0d8ba8",
+  "lastOpenFiles": [
+    "work/SMEBJ.md",
+    "mine/plan/English.md",
+    "mine/plan",
+    "mine",
+    "work/SMEAL.md",
+    "work/CCF-MEMBER.md",
+    "work/TODO.md",
+    "work/REP.md",
+    "README.md",
+    "note/Using a password with .....may not be safe.md",
+    "note/oracle数据库小操作.md",
+    "note/哈希函数.md",
+    "words/打油诗/七夕前夕—赏月.md",
+    "words/打油诗/七夕逢雨.md",
+    "北京市中小企业公共服务平台网络市级枢纽平台问题清单(1) 1.doc",
+    "服务产品中心密改计划.xlsx",
+    "~$调查表（XX系统）.doc",
+    "MF接口说明V1.1.9-20220725-对应接口说明(1).doc",
+    "~$市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
+    "等保调查表（XX系统）.doc",
+    "北京市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
+    "2023-10-08.md"
+  ]
+}
