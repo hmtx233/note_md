@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mine/plan/English.md",
+                "file": "work/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 514.5
   },
   "right": {
     "id": "af951bf76f5d8076",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mine/plan/English.md",
+                "file": "work/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mine/plan/English.md",
+                "file": "work/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mine/plan/English.md"
+                "file": "work/TODO.md"
               }
             }
           },
@@ -166,29 +166,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9e1cdf879e0d8ba8",
+  "active": "16a184a4e6fcfc0e",
   "lastOpenFiles": [
-    "work/SMEBJ.md",
+    "work/file/~$市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
+    "work/config/REP.md",
+    "work/config/CCF-MEMBER.md",
     "mine/plan/English.md",
+    "work/config",
+    "work/file",
+    "~$接口说明V1.1.9-20220725-对应接口说明(1).doc",
+    "work/config/SMEBJ.md",
     "mine/plan",
     "mine",
-    "work/SMEAL.md",
-    "work/CCF-MEMBER.md",
+    "work/config/SMEAL.md",
     "work/TODO.md",
-    "work/REP.md",
     "README.md",
     "note/Using a password with .....may not be safe.md",
     "note/oracle数据库小操作.md",
     "note/哈希函数.md",
     "words/打油诗/七夕前夕—赏月.md",
     "words/打油诗/七夕逢雨.md",
-    "北京市中小企业公共服务平台网络市级枢纽平台问题清单(1) 1.doc",
-    "服务产品中心密改计划.xlsx",
+    "work/file/北京市中小企业公共服务平台网络市级枢纽平台问题清单.doc",
+    "work/file/服务产品中心密改计划.xlsx",
     "~$调查表（XX系统）.doc",
-    "MF接口说明V1.1.9-20220725-对应接口说明(1).doc",
+    "work/file/MF接口说明V1.1.9-20220725-对应接口说明.doc",
     "~$市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
-    "等保调查表（XX系统）.doc",
-    "北京市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
     "2023-10-08.md"
   ]
 }
