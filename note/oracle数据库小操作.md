@@ -7,7 +7,6 @@ flashback table table_name  to timestamp TO_TIMESTAMP('2022-08-08 13:42:00', 'yy
 alter table table_name disable row movement;
 ```
 
-
 ### oracle创建序列和触发器实现字段自增
 
 ```sql
