@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mine/daliy/2023-10-27.md",
+                "file": "note/redis 密码连接提醒.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mine/daliy/2023-10-27.md",
+                "file": "note/redis 密码连接提醒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mine/daliy/2023-10-27.md",
+                "file": "note/redis 密码连接提醒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mine/daliy/2023-10-27.md"
+                "file": "note/redis 密码连接提醒.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "46e70953e9679e50",
   "lastOpenFiles": [
+    "note/synchronized和lock的使用.md",
+    "note/哈希函数.md",
     "mine/plan.md",
     "mine/daliy/2023-10-27.md",
-    "note/synchronized和lock的使用.md",
     "mine/daliy",
-    "note/哈希函数.md",
     "blogs/2021/2021-08-20.md",
     "blogs/2021/2021-08-31.md",
     "work/TODO.md",
@@ -177,7 +177,7 @@
     "mine",
     "work/config/SMEAL.md",
     "README.md",
-    "note/Using a password with .....may not be safe.md",
+    "note/redis 密码连接提醒.md",
     "note/oracle数据库小操作.md",
     "words/打油诗/七夕前夕—赏月.md",
     "words/打油诗/七夕逢雨.md",

@@ -1,3 +1,5 @@
+>Using a password with .....may not be safe
+>
 # Redis如何解决"Warning: Using a password with .....may not be safe"
 ### 连接Redis的时候，加上参数--no-auth-warning
 ``` shell
