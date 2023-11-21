@@ -1,4 +1,4 @@
-#同步代码
+#同步代码 #2023-10-27
 # synchronized使用,同步代码块
 
 ## synchronized(obj) 静态obj

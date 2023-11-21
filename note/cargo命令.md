@@ -1,4 +1,5 @@
-## cargo命令
+#2023-09-15 #rust #cargo
+# cargo命令
 
 - 可以使用 cargo new 创建项目!
 - 可以使用 cargo build 构建项目。 
