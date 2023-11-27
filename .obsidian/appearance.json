@@ -1,5 +1,8 @@
 {
 <<<<<<< HEAD
+  "accentColor": ""
+=======
+<<<<<<< HEAD
   "accentColor": "#00ffff",
   "baseFontSize": 15
 =======
@@ -7,4 +10,5 @@
   "baseFontSize": 15,
   "translucency": true
 >>>>>>> refs/remotes/origin/master
+>>>>>>> e1ecedbc938dc1bcad7074eff50a3f833e386c5d
 }

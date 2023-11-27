@@ -156,6 +156,8 @@
   },
   "active": "824b69c93280bb6d",
   "lastOpenFiles": [
+    "blogs/2023/2023-10-07.md",
+    "blogs/2023",
     "note/cargo命令.md",
     "note/redis 密码连接提醒.md",
     "note/哈希函数.md",
@@ -186,13 +188,11 @@
     "note/oracle数据库小操作.md",
     "README.md",
     "template/2019-11-28.md",
-    "blogs/2019/2019-11-28.md",
     "template",
     "work/secret.zip",
     "work/file/~$接口说明V1.1.9-20220725-对应接口说明.doc",
     "mine/daliy",
     "work/file/~$市中小企业公共服务平台网络市级枢纽平台问题清单(1).doc",
-    "work/config",
-    "work/file"
+    "work/config"
   ]
 }

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+{}
+=======
 {
   "promptDelete": false,
   "newFileLocation": "current",
@@ -5,3 +8,4 @@
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true
 }
+>>>>>>> e1ecedbc938dc1bcad7074eff50a3f833e386c5d
