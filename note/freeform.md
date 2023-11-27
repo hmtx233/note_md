@@ -1,0 +1,5 @@
+公钥
+npub13y05ve057zdlfxpz6xxz43wvl9amhsa5ah7ja9xwayc586fkkuzqvwtxgc
+
+私钥
+nsec1h5envqnxm92xewxtnhpvjpftnv92ljet3y3snpj5ggq03smsuysqh8eq2m

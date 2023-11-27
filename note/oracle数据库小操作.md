@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 
 ### navicat 工具 回滚数据到某一时刻 #oracle回滚数据
+=======
+#2023-09-15 #oracle #navicat
+### navicat 工具 回滚数据到某一时刻
+>>>>>>> e1ecedbc938dc1bcad7074eff50a3f833e386c5d
 
 ```sql
 alter table table_name enable row movement;
 flashback table table_name  to timestamp TO_TIMESTAMP('2022-08-08 13:42:00', 'yyyy-mm-dd hh24:mi:ss');
 alter table table_name disable row movement;
 ```
-
 
 ### oracle创建序列和触发器实现字段自增
 
