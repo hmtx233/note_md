@@ -1,4 +1,4 @@
-## cargo命令
+## cargo命令 #cargo
 
 - 可以使用 cargo new 创建项目!
 - 可以使用 cargo build 构建项目。 

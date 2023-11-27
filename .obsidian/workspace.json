@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3df37cae0268fd64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5e6c6d1b8a1aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082a13bc3f937fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/oracle数据库小操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c3ae5482c9b038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/2023/2023-10-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3a37fd1aa924799",
+    "type": "split",
+    "children": [
+      {
+        "id": "94786276e201b1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3a9db7e0d4c0e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4def9de0aa0a6991",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e578db8c8a109c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "9833bb6c5c58d048",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b5814ff18e3cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "917e48efd5b00577",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blogs/2023/2023-10-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ad141601195f8bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blogs/2023/2023-10-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2696aaef5b5b250f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13163bba14886869",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blogs/2023/2023-10-17.md"
+              }
+            }
+          },
+          {
+            "id": "4e6ab20040e08275",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "28c3ae5482c9b038",
+  "lastOpenFiles": [
+    "blogs/2023/2023-10-17.md",
+    "note/cargo命令.md",
+    "note/哈希函数.md",
+    "blogs/2023/2023-10-07.md",
+    "blogs/2023",
+    "blogs/2019/2019-11-28.md",
+    "blogs/2019/2019-11-26.md",
+    "blogs/2019/2019-11-24.md",
+    "blogs/2019/2019-11-23.md",
+    "README.md"
+  ]
+}
